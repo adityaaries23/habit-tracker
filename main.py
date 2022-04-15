@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-USERNAME = "adityaaries"
-TOKEN = "fqdqwdefqeqdqf"
+USERNAME = "Your_pixel_user_name"
+TOKEN = "Your_pixel_Token"
 ID = "graph1"
 TODAY = datetime.now().strftime("%Y%m%d")
 
